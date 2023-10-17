@@ -91,5 +91,5 @@ form.example::after {
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>  
+   <h3> Thank you, Happy Learning  <br> Anyel </h3>  
 </form>
