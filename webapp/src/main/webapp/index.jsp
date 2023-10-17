@@ -1,5 +1,3 @@
-
-
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -60,9 +58,6 @@ form.example::after {
 </form>
 </body>
 
-
-
-
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -96,7 +91,5 @@ form.example::after {
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-
-  
+   <h1> Thankyou, Happy Learning </h1>  
 </form>
