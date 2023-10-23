@@ -1,3 +1,5 @@
-webapp/.DS_Store
+.DS_Store
+webapp/*.DS_Store
 webapp/src/.DS_Store
 webapp/src/main/.DS_Store
+webapp/src/main/webapp/.DS_Store
