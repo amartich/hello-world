@@ -94,8 +94,7 @@ form.example::after {
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? create one <a href="#">Sign in</a>.</p>
   </div>
-
    <h3> Thank you! <br> Happy Learning  <br> Anyel </h3>  
 </form>
