@@ -86,7 +86,7 @@ form.example::after {
     <h2>Responsive Image</h2>
     <p>When the CSS width property is set in a percentage value, the image will scale up and down when resizing the browser window. Resize the browser window to see the effect.</p>
     
-    <img src="https://lp-cms-production.imgix.net/2019-06/ac073e18f4117e559ab4030d0b1f977f-cabarete.jpg" style="width:40%;">
+    <img src="https://lp-cms-production.imgix.net/2019-06/ac073e18f4117e559ab4030d0b1f977f-cabarete.jpg" style="width:50%;">
 
     <hr>
     <br>
