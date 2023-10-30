@@ -102,5 +102,8 @@ form.example::after {
     <p>Already have an account? create one <a href="#">Sign in</a>.</p>
   </div>
    <h3> Thank you! <br> Happy Learning  <br> Anyel </h3>  
-   <p> change to triger CD/CD jobs</p>
+   <div>
+   <p> Change to triger CD/CD jobs</p>
+   <p> See it all in action</p>
+  </div>
 </form>
